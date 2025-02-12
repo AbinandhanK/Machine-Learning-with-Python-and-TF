@@ -3,7 +3,6 @@
 <br>
 
 This repository documents my learning journey through FreeCodeCamp’s <b>Machine Learning with Python course</b>. It includes well structured notes, hands on projects, and practical implementations of key ML concepts.
-
 <br>
 
 # What You’ll Find Here:
