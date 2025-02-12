@@ -15,7 +15,7 @@ This repository documents my learning journey through FreeCodeCamp’s <b>Machin
 ✅ Hands on projects for real world applications
 <br>
 ✅ Data preprocessing, model training, and evaluation techniques
-<br><br>
+<br>
 
 # Why Follow This Repository?
 <br>
